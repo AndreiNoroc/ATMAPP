@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\bin\Debug\Info.mdf
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\bin\Debug\Info_log.ldf
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\bin\Debug\ATMAPP.exe.config
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\bin\Debug\ATMAPP.exe
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\bin\Debug\ATMAPP.pdb
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.Form2.resources
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.Form3.resources
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.Form4.resources
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.exe
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.pdb
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.Form1.resources
+C:\Users\ASUS\source\repos\ATMAPP\ATMAPP\obj\Debug\ATMAPP.Form5.resources
